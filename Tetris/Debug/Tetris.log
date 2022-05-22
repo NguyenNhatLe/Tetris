@@ -1,0 +1,10 @@
+﻿  Tetris.cpp
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(54,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(77,65): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(131,40): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(142,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(142,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(150,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Tetris\Tetris\Tetris.cpp(150,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\PC\OneDrive\Máy tính\Tetris\Debug\Tetris.exe
