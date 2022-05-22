@@ -1,7 +1,7 @@
 # Tetris
 BÁO CÁO BÀI TẬP LỚN MÔN LẬP TRÌNH NÂNG CAO - INT2215_1
 
-Họ và tên: Nguyễn Nhật Lê
+Họ và tên: Nguyễn Nhật Lê 
 MSSV: 21020347
 Tựa game: Tetris
 
