@@ -5,9 +5,9 @@ BÁO CÁO BÀI TẬP LỚN MÔN LẬP TRÌNH NÂNG CAO - INT2215_1
 - MSSV: 21020347
 - Tựa game: Tetris
 
-1. Cách lấy và chạy chương trình:
+1. Cách lấy và chạy chương trình: (trên Visual Studio 2019)
 - Bước 1: Download từ github file zip chứa toàn bộ code & thư viện, hình ảnh, âm thanh từ github
-- Bước 2: Giải nén, tìm và chạy file Tetris.exe để chạy game.
+- Bước 2: Giải nén, cài đặt thư viện đồ họa SFML . Tìm và chạy file Tetris.exe để chạy game.
 2. Mô tả chung về trò chơi, các ý tưởng chính:
 - Di chuyển các khối gạch đang rơi từ từ ngẫu nhiên xuống trong kích thước hình chữ nhật 20 hàng x 10 cột (trên màn hình). Chỗ nào có gạch rồi thì không di chuyển được tới vị trí đó. Người chơi xếp những khối hình sao cho khối hình lấp đầy 1 hàng ngang và hàng ngang ấy sẽ biến mất.
 - Được điều khiển bằng 4 phím -  [LEFT], [RIGHT],[DOWN],[UP].
