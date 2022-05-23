@@ -16,7 +16,7 @@ BÁO CÁO BÀI TẬP LỚN MÔN LẬP TRÌNH NÂNG CAO - INT2215_1
 - Video minh họa: https://youtu.be/aCQHnBLi7-A
 
 - Mô tả:
-  -Cách khối gạch có hình dạng bất kì sẽ rơi xuống, người chơi dùng các phím mũi tên [LEFT], [RIGHT],[DOWN] để di chuyển khối gạch, phím [UP] để thay đổi hình dạng viên gạch theo ý muốn. Khi 1 hàng ngang được lấp đấy bởi các viên gạch sẽ biến mất, những khối gạch ở bên trên sẽ rơi xuống vị trí tương ứng đến . Game kết thúc khi viên gạch chạm ví trí cao nhất trên hình chữ nhật kích thước 20x10.
+  - Các khối gạch có hình dạng bất kì sẽ rơi xuống, người chơi dùng các phím mũi tên [LEFT], [RIGHT],[DOWN] để di chuyển khối gạch, phím [UP] để thay đổi hình dạng viên gạch theo ý muốn. Khi 1 hàng ngang được lấp đấy bởi các viên gạch sẽ biến mất, những khối gạch ở bên trên sẽ rơi xuống vị trí tương ứng đến . Game kết thúc khi viên gạch chạm ví trí cao nhất trên hình chữ nhật kích thước 20x10.
   -Có nhạc nền trong suốt thời gian chơi. 
 4. Các kỹ thuật lập trình được sử dụng trong chương trình:
 - Sử dụng mảng , xâu (string), hàm rand();
