@@ -24,7 +24,7 @@ BÁO CÁO BÀI TẬP LỚN MÔN LẬP TRÌNH NÂNG CAO - INT2215_1 - NHÓM 9
   - Các khối gạch có hình dạng bất kì sẽ rơi xuống, người chơi dùng các phím mũi tên [LEFT], [RIGHT],[DOWN] để di chuyển khối gạch, phím [UP] để thay đổi hình dạng viên gạch theo ý muốn. Khi 1 hàng ngang được lấp đấy bởi các viên gạch sẽ biến mất, những khối gạch ở bên trên sẽ rơi xuống vị trí tương ứng đến . Game kết thúc khi viên gạch chạm ví trí cao nhất trên hình chữ nhật kích thước 20x10.
   - Có nhạc nền trong suốt thời gian chơi. 
 4. Các kỹ thuật lập trình được sử dụng trong chương trình:
-- Sử dụng mảng , xâu (string), hàm rand();
+- Sử dụng mảng 2 chiều, hàm rand();
 - Sử dụng biến const, con trỏ và tham chiếu;
 - Sử dụng struct ;
 - Sử dụng thư viện <SFML/Graphics.hpp> ; <SFML/Audio.hpp> ; <time.h>
