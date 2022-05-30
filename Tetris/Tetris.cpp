@@ -37,12 +37,10 @@ int main()
 
     RenderWindow window(VideoMode(320, 480), "Tetris");
 
-    //Music
     Music music;
     music.openFromFile("sound/TetrisGame.ogg");
     music.play();
     
-    // Load Image
     Texture t1, t2, t3;
     t1.loadFromFile("images/tiles.png");
     t2.loadFromFile("images/background.png");
@@ -76,14 +74,13 @@ int main()
 
         if (Keyboard::isKeyPressed(Keyboard::Down)) delay = 0.05;
 
-        // Move 
         for (int i = 0; i < 4; i++) { b[i] = a[i]; a[i].x += dx; }
         if (!check()) for (int i = 0; i < 4; i++) a[i] = b[i];
 
         //Rotate
         if (rotate)
         {
-            Point p = a[1]; //center of rotation
+            Point p = a[1]; 
             for (int i = 0; i < 4; i++)
             {
                 int x = a[i].y - p.y;
@@ -94,7 +91,6 @@ int main()
             if (!check()) for (int i = 0; i < 4; i++) a[i] = b[i];
         }
 
-        //Tick
         if (timer > delay)
         {
             for (int i = 0; i < 4; i++) { b[i] = a[i]; a[i].y += 1; }
